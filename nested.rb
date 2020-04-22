@@ -38,7 +38,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-     	nested_hash = programmer_hash.first[]
+     	nested_hash = programmer_hash.first[1]
 end
 
 def dennis_ritchies_language
