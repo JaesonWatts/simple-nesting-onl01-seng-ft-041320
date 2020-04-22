@@ -39,7 +39,7 @@ def alan_kay_is_known_for
         }
      }
      	nested_hash = programmer_hash.first[1]
-     	nested_hash.first.value
+     	nested_hash.first[0]
 end
 
 def dennis_ritchies_language
